@@ -10,7 +10,7 @@
 <img align="right" alt="coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
  <p align="left">
-    <a href="www.linkedin.com/in/suriyaanalyst" target="blank">
+    <a href="https://www.linkedin.com/in/suriyaanalyst" target="blank">
       <img src="https://img.shields.io/badge/-Follow%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/suriyaanalyst"
         alt="LinkedIn" />
     </a>
