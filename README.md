@@ -32,7 +32,7 @@
 - 🤝 I’m looking to collaborate **on all topics related to Data Analytics**
 - 📫 How to reach me **suriyabe2000@gmail.com**🌱
 
-- 📄 [**My Resume**][SuriyaResume.pdf](https://github.com/SuriyaAnalyst/SuriyaAnalyst/files/14195460/SuriyaResume.pdf)
+- 📄 [**My Resume**][SuriyaResume.pdf]https://drive.google.com/file/d/1GfM08kyqFxlhSHFO4tftAFBlEV54ZH1U/view?usp=sharing
 
 
 ### `🟦 Projects:`
