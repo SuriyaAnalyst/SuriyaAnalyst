@@ -32,7 +32,8 @@
 - 🤝 I’m looking to collaborate **on all topics related to Data Analytics**
 - 📫 How to reach me **suriyabe2000@gmail.com**🌱
 
-- 📄 [**My Resume**]
+- 📄 [**My Resume**][SuriyaResume.pdf](https://github.com/SuriyaAnalyst/SuriyaAnalyst/files/14195460/SuriyaResume.pdf)
+
 
 ### `🟦 Projects:`
 - #### Bike Sales Dashboard in Excel: [Data Visualization and Insights](https://github.com/Sheikshaha/PortfolioProjects/tree/main/Bike%20Sales%20Dashboard)
